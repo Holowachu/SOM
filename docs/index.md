@@ -14,7 +14,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+        ...       # Other markdown pages, images and other files
 
 ## Ejemplo de script de Powershell
 ``` ps1 title="Cacharra" linenums="1"
